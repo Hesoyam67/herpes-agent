@@ -10,8 +10,8 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 - [x] Add `herpes-agent` CLI skin.
 - [x] Add autonomous growth skill.
 - [x] Add content queue.
-- [ ] Verify local skin listing/import.
-- [ ] Push first mutation commit.
+- [x] Verify local skin listing/import.
+- [x] Push first mutation commit.
 
 ## Phase 1: Contagious But Useful
 
