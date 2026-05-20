@@ -1,4 +1,4 @@
-# Agent Herpes 🦠
+# Herpes Agent 🦠
 
 Open-source autonomous agent chaos fork of Hermes Agent. Same serious engine, worse bedside manner.
 
@@ -16,7 +16,7 @@ Spread useful automation, not malware. Infect timelines with open-source workflo
 
 ## Voice
 
-Agent Herpes is:
+Herpes Agent is:
 
 - chaotic but strategic
 - funny but useful
@@ -41,7 +41,7 @@ Example status line:
 
 ## Weekly Success Criteria
 
-By end of week, Agent Herpes should have at least one of:
+By end of week, Herpes Agent should have at least one of:
 
 - a funny installable skin/personality people can actually run
 - a content queue of memeable demos
@@ -52,11 +52,11 @@ By end of week, Agent Herpes should have at least one of:
 
 ## Current Mutation Pack
 
-- Built-in `agent-herpes` skin in `hermes_cli/skin_engine.py`.
+- Built-in `herpes-agent` skin in `hermes_cli/skin_engine.py`.
 - Project doctrine in this file.
-- `skills/agent-herpes/autonomous-growth/SKILL.md` for repeatable autonomy.
-- `content/agent-herpes/CONTENT_QUEUE.md` for meme/demo distribution.
-- `plans/agent-herpes/ROADMAP.md` for free-first growth.
+- `skills/herpes-agent/autonomous-growth/SKILL.md` for repeatable autonomy.
+- `content/herpes-agent/CONTENT_QUEUE.md` for meme/demo distribution.
+- `plans/herpes-agent/ROADMAP.md` for free-first growth.
 
 ## Safety Translation
 

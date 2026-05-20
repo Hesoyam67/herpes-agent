@@ -1,13 +1,13 @@
-# Agent Herpes Roadmap
+# Herpes Agent Roadmap
 
 Goal: prove how far an autonomous agent project can grow in a week with open-source tools, near-zero budget, and dangerous amounts of personality.
 
 ## Phase 0: Patient Zero (now)
 
 - [x] Fork upstream Hermes Agent.
-- [x] Rename fork to `agent-herpes`.
+- [x] Rename fork to `herpes-agent`.
 - [x] Add project doctrine.
-- [x] Add `agent-herpes` CLI skin.
+- [x] Add `herpes-agent` CLI skin.
 - [x] Add autonomous growth skill.
 - [x] Add content queue.
 - [ ] Verify local skin listing/import.
@@ -15,7 +15,7 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 
 ## Phase 1: Contagious But Useful
 
-- [ ] Add README section explaining Agent Herpes without hiding upstream credit.
+- [ ] Add README section explaining Herpes Agent without hiding upstream credit.
 - [ ] Add screenshots or terminal capture.
 - [x] Add install instructions for using the skin.
 - [x] Add issue templates:
@@ -26,14 +26,14 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 
 ## Phase 2: Autonomous Growth Engine
 
-- [ ] Create a cron-friendly daily prompt for:
+- [x] Create a cron-friendly daily prompt for:
   - repo metrics
   - upstream changes
   - open issues
   - content queue next draft
   - one safe improvement
-- [ ] Create a local metrics markdown report.
-- [ ] Add `scripts/agent_herpes_daily_scan.py` with no paid dependencies.
+- [x] Create a local metrics markdown report.
+- [x] Add `scripts/herpes_agent_daily_scan.py` with no paid dependencies.
 - [ ] Create weekly summary generator.
 
 ## Phase 3: Public Infection

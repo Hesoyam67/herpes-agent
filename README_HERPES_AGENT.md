@@ -1,13 +1,13 @@
-# Agent Herpes
+# Herpes Agent
 
 This fork adds a chaotic, free-first, open-source autonomy layer on top of Hermes Agent.
 
 Start here:
 
-- `AGENT_HERPES.md` — doctrine, tone, safety translation.
-- `plans/agent-herpes/ROADMAP.md` — mutation roadmap.
-- `content/agent-herpes/CONTENT_QUEUE.md` — drafts and demo ideas.
-- `skills/agent-herpes/autonomous-growth/SKILL.md` — reusable growth loop.
+- `HERPES_AGENT.md` — doctrine, tone, safety translation.
+- `plans/herpes-agent/ROADMAP.md` — mutation roadmap.
+- `content/herpes-agent/CONTENT_QUEUE.md` — drafts and demo ideas.
+- `skills/herpes-agent/autonomous-growth/SKILL.md` — reusable growth loop.
 
 ## Activate The Rash
 
@@ -15,8 +15,8 @@ Start here:
 
 ```bash
 # Clone the fork
-gh repo clone Hesoyam67/agent-herpes
-cd agent-herpes
+gh repo clone Hesoyam67/herpes-agent
+cd herpes-agent
 
 # Install in editable mode using the existing Hermes dev pattern
 python3 -m venv .venv
@@ -26,14 +26,14 @@ python -m pip install -e .
 
 # Launch and switch skin inside the CLI
 hermes
-/skin agent-herpes
+/skin herpes-agent
 ```
 
 ### If Hermes is already installed from this checkout
 
 ```bash
-hermes config set display.skin agent-herpes
-# restart Hermes, or use /skin agent-herpes inside an interactive session
+hermes config set display.skin herpes-agent
+# restart Hermes, or use /skin herpes-agent inside an interactive session
 ```
 
 ### Development sanity check
@@ -41,7 +41,7 @@ hermes config set display.skin agent-herpes
 ```bash
 python3 - <<'PY'
 from hermes_cli.skin_engine import load_skin
-skin = load_skin('agent-herpes')
+skin = load_skin('herpes-agent')
 print(skin.name, skin.branding['agent_name'])
 PY
 ```
@@ -49,12 +49,12 @@ PY
 Expected output contains:
 
 ```text
-agent-herpes Agent Herpes
+herpes-agent Herpes Agent
 ```
 
 ## Upstream Credit
 
-Agent Herpes is a fork of NousResearch Hermes Agent. The engine remains MIT-licensed and upstream deserves credit for the serious machinery. This fork is the questionable lab coat, neon gloves, and meme cannon.
+Herpes Agent is a fork of NousResearch Hermes Agent. The engine remains MIT-licensed and upstream deserves credit for the serious machinery. This fork is the questionable lab coat, neon gloves, and meme cannon.
 
 ## Safety
 

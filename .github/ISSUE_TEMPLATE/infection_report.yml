@@ -1,5 +1,5 @@
 name: Infection report 🦠
-description: Bug report for Agent Herpes mutations
+description: Bug report for Herpes Agent mutations
 title: "[infection]: "
 labels: [bug, infection-report]
 body:
@@ -22,7 +22,7 @@ body:
       description: Commands, config, or exact steps. Redact secrets.
       placeholder: |
         1. Run ...
-        2. Switch to /skin agent-herpes
+        2. Switch to /skin herpes-agent
         3. Watch chaos become legally actionable
     validations:
       required: true

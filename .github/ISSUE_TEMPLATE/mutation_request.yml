@@ -1,5 +1,5 @@
 name: Mutation request 🧬
-description: Suggest a new Agent Herpes feature, workflow, skin tweak, or meme cannon
+description: Suggest a new Herpes Agent feature, workflow, skin tweak, or meme cannon
 title: "[mutation]: "
 labels: [enhancement, mutation-request]
 body:
@@ -11,7 +11,7 @@ body:
     id: mutation
     attributes:
       label: Mutation idea
-      description: What should Agent Herpes grow next?
+      description: What should Herpes Agent grow next?
     validations:
       required: true
   - type: textarea

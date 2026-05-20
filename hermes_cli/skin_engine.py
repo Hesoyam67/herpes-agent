@@ -196,8 +196,8 @@ _BUILTIN_SKINS: Dict[str, Dict[str, Any]] = {
         },
         "tool_prefix": "┊",
     },
-    "agent-herpes": {
-        "name": "agent-herpes",
+    "herpes-agent": {
+        "name": "herpes-agent",
         "description": "Neon viral chaos — autonomous, open-source, and aggressively unserious",
         "colors": {
             "banner_border": "#FF4FD8",
@@ -239,8 +239,8 @@ _BUILTIN_SKINS: Dict[str, Dict[str, Any]] = {
             ],
         },
         "branding": {
-            "agent_name": "Agent Herpes",
-            "welcome": "Agent Herpes online. Wash your hands, not your git history. Type /help before the rash spreads.",
+            "agent_name": "Herpes Agent",
+            "welcome": "Herpes Agent online. Wash your hands, not your git history. Type /help before the rash spreads.",
             "goodbye": "Going dormant. Still contagious. 🦠",
             "response_label": " 🦠 Herpes ",
             "prompt_symbol": "☣",
@@ -815,6 +815,10 @@ def list_skins() -> List[Dict[str, str]]:
 
 def load_skin(name: str) -> SkinConfig:
     """Load a skin by name. Checks user skins first, then built-in."""
+    # Backward-compatible alias from the brief reversed-name era.
+    if name == "agent-herpes":
+        name = "herpes-agent"
+
     # Check user skins directory
     skins_path = _skins_dir()
     user_file = skins_path / f"{name}.yaml"

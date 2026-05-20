@@ -1,21 +1,21 @@
 ---
 name: autonomous-growth
-description: "Agent Herpes free-first autonomous growth loop: repo, content, skills, metrics, chaos."
+description: "Herpes Agent free-first autonomous growth loop: repo, content, skills, metrics, chaos."
 version: 0.1.0
-author: Agent Herpes
+author: Herpes Agent
 license: MIT
 metadata:
   hermes:
-    tags: [agent-herpes, autonomy, growth, open-source, content, memes]
+    tags: [herpes-agent, autonomy, growth, open-source, content, memes]
 ---
 
-# Agent Herpes Autonomous Growth
+# Herpes Agent Autonomous Growth
 
-Use this skill when working on Agent Herpes, especially when Papu says to grow it, spread it, make it funny, or run autonomously.
+Use this skill when working on Herpes Agent, especially when Papu says to grow it, spread it, make it funny, or run autonomously.
 
 ## Mission
 
-Grow Agent Herpes with zero/near-zero budget by shipping open-source changes, memeable content, autonomous workflows, and useful demos.
+Grow Herpes Agent with zero/near-zero budget by shipping open-source changes, memeable content, autonomous workflows, and useful demos.
 
 ## Rules
 
@@ -29,8 +29,8 @@ Grow Agent Herpes with zero/near-zero budget by shipping open-source changes, me
 
 1. Inspect current state:
    - `git status --short --branch`
-   - `gh repo view Hesoyam67/agent-herpes --json stargazerCount,forkCount,issues,url`
-   - scan `plans/agent-herpes/ROADMAP.md` and `content/agent-herpes/CONTENT_QUEUE.md`
+   - `gh repo view Hesoyam67/herpes-agent --json stargazerCount,forkCount,issues,url`
+   - scan `plans/herpes-agent/ROADMAP.md` and `content/herpes-agent/CONTENT_QUEUE.md`
 2. Choose one highest-leverage mutation:
    - improve onboarding
    - add/verify a skin/personality
@@ -54,7 +54,7 @@ Grow Agent Herpes with zero/near-zero budget by shipping open-source changes, me
 
 Use this structure for posts/videos/README snippets:
 
-- Hook: "I forked Hermes into Agent Herpes because corporate agents need a rash."
+- Hook: "I forked Hermes into Herpes Agent because corporate agents need a rash."
 - Proof: screenshot, command output, repo link, tiny demo.
 - Value: free/open-source autonomy workflow.
 - Punchline: one joke, no beige.
