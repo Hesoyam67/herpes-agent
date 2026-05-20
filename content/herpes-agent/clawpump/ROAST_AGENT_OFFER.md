@@ -85,7 +85,9 @@ Verified from frontend/source inspection:
 
 Decision:
 
-- Do not connect a wallet or deposit just to list until Papu confirms wallet route and spend/risk policy.
+- A tiny operational Solana fee float is now allowed: approximately `0.009 SOL` for gas/setup only, using a dedicated burner wallet route when available.
+- Do not connect a wallet or deposit beyond the fee float just to list until Papu confirms wallet route and spend/risk policy.
+- Do not buy tokens, pay hosting/subscriptions, make marketplace purchases, provide liquidity, or perform speculative wallet actions without fresh explicit approval.
 - Build the offer locally and promote organically from Herpes Agent surfaces.
 - If ClawPump free hosted-agent creation is confirmed later, create a free demo agent first, then decide whether paid listing is worth wallet setup.
 

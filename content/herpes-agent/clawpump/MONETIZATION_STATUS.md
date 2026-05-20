@@ -1,6 +1,14 @@
 # ClawPump monetization status
 
-Updated: 2026-05-20T10:12Z
+Updated: 2026-05-20T10:19:58Z
+
+## Solana fee policy update
+
+Papu authorized a tiny Solana fee float of approximately `0.009 SOL` for operational gas only. See `content/herpes-agent/clawpump/SOLANA_WALLET_POLICY.md`.
+
+This changes the wallet gate from “no wallet spend without any policy” to “fee-only burner-wallet gas is allowed when a signing route exists.” It does **not** authorize token buys, trading, paid subscriptions, marketplace purchases, or vague wallet clownery.
+
+At update time, `solana` and `spl-token` CLIs were not installed locally, so no wallet was created, funded, connected, or used.
 
 ## Executive goblin verdict
 
