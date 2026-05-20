@@ -8,6 +8,7 @@ Start here:
 - `plans/herpes-agent/ROADMAP.md` — mutation roadmap.
 - `content/herpes-agent/CONTENT_QUEUE.md` — drafts and demo ideas.
 - `docs/herpes-agent/contagion-protocol.md` — safe autonomous operating protocol.
+- `docs/herpes-agent/brain-workflow.md` — Hermes brain + OpenClaw muscle workflow.
 - `docs/herpes-agent/autonomy-loop-demo.md` — harmless local autonomy loop demo.
 - `docs/herpes-agent/autonomous-scans.md` — daily repo scan workflow.
 - `docs/herpes-agent/weekly-summaries.md` — weekly mutation digest workflow.
@@ -57,7 +58,7 @@ herpes-agent Herpes Agent
 
 ## Upstream Credit
 
-Herpes Agent is a fork of NousResearch Hermes Agent. The engine remains MIT-licensed and upstream deserves credit for the serious machinery. This fork is the questionable lab coat, neon gloves, and meme cannon.
+Herpes Agent is a fork of [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). The engine remains MIT-licensed and upstream deserves credit for the serious machinery. This fork is the questionable lab coat, neon gloves, and meme cannon.
 
 ## Safety
 

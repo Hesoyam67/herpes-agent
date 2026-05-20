@@ -32,6 +32,7 @@ Start here:
 - [`README_HERPES_AGENT.md`](README_HERPES_AGENT.md) — fork-specific install and activation guide.
 - [`docs/herpes-agent/demo.md`](docs/herpes-agent/demo.md) — plain-text demo capture of the Herpes Agent skin.
 - [`docs/herpes-agent/contagion-protocol.md`](docs/herpes-agent/contagion-protocol.md) — safe autonomous operating rules for responsible repo mutations.
+- [`docs/herpes-agent/brain-workflow.md`](docs/herpes-agent/brain-workflow.md) — Hermes strategy brain + OpenClaw execution muscle workflow.
 - [`docs/herpes-agent/autonomy-loop-demo.md`](docs/herpes-agent/autonomy-loop-demo.md) — harmless local autonomy loop demo: inspect, pick, artifact, verify.
 - [`docs/herpes-agent/autonomous-scans.md`](docs/herpes-agent/autonomous-scans.md) — zero-cost daily repo scan workflow.
 - [`docs/herpes-agent/weekly-summaries.md`](docs/herpes-agent/weekly-summaries.md) — weekly mutation digest generator for reports and cron.
