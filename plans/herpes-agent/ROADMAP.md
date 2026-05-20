@@ -15,14 +15,14 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 
 ## Phase 1: Contagious But Useful
 
-- [ ] Add README section explaining Herpes Agent without hiding upstream credit.
+- [x] Add README section explaining Herpes Agent without hiding upstream credit.
 - [x] Add screenshots or terminal capture.
 - [x] Add install instructions for using the skin.
 - [x] Add issue templates:
   - infection report (bug)
   - mutation request (feature)
   - meme submission later
-- [ ] Add a demo script that runs a harmless autonomy loop.
+- [x] Add a demo script that runs a harmless autonomy loop.
 
 ## Phase 2: Autonomous Growth Engine
 

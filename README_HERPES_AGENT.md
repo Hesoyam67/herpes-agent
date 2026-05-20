@@ -7,7 +7,9 @@ Start here:
 - `HERPES_AGENT.md` — doctrine, tone, safety translation.
 - `plans/herpes-agent/ROADMAP.md` — mutation roadmap.
 - `content/herpes-agent/CONTENT_QUEUE.md` — drafts and demo ideas.
-- `skills/herpes-agent/autonomous-growth/SKILL.md` — reusable growth loop.
+- `docs/herpes-agent/autonomy-loop-demo.md` — harmless local autonomy loop demo.
+- `docs/herpes-agent/autonomous-scans.md` — daily repo scan workflow.
+- `docs/herpes-agent/weekly-summaries.md` — weekly mutation digest workflow.
 
 ## Activate The Rash
 
