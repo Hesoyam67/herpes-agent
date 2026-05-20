@@ -37,6 +37,7 @@ Start here:
 - [`docs/herpes-agent/autonomous-scans.md`](docs/herpes-agent/autonomous-scans.md) — zero-cost daily repo scan workflow.
 - [`docs/herpes-agent/weekly-summaries.md`](docs/herpes-agent/weekly-summaries.md) — weekly mutation digest generator for reports and cron.
 - [`content/herpes-agent/LAUNCH_APPROVAL_PACK.md`](content/herpes-agent/LAUNCH_APPROVAL_PACK.md) — local-only launch approval pack with drafts, assets, safety gates, and no surprise posting.
+- [`content/herpes-agent/POST_LAUNCH_REPORT_TEMPLATE.md`](content/herpes-agent/POST_LAUNCH_REPORT_TEMPLATE.md) — post-launch report template for the final URL, metrics, replies, and follow-up decisions.
 - [`plans/herpes-agent/ROADMAP.md`](plans/herpes-agent/ROADMAP.md) — mutation roadmap, because even chaos deserves a checklist.
 
 Upstream credit stays loud: this fork is built on [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) and keeps the MIT/open-source posture intact. We spread docs, skills, demos, and useful workflows — not malware, spam, or credential goblin behavior.

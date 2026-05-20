@@ -44,6 +44,7 @@ Requires Papu approval before posting externally.
 
 - [ ] Publish launch post.
 - [x] Prepare local launch approval pack.
+- [x] Add post-launch report template.
 - [ ] Share demo GIF/video.
 - [ ] Reply to comments/issues.
 - [ ] Track stars/forks/comments.

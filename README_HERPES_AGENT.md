@@ -13,6 +13,7 @@ Start here:
 - `docs/herpes-agent/autonomous-scans.md` — daily repo scan workflow.
 - `docs/herpes-agent/weekly-summaries.md` — weekly mutation digest workflow.
 - `content/herpes-agent/LAUNCH_APPROVAL_PACK.md` — local-only launch pack with drafts, assets, and approval checklist.
+- `content/herpes-agent/POST_LAUNCH_REPORT_TEMPLATE.md` — template for approved post URL, metrics, replies, and follow-up decisions.
 
 ## Activate The Rash
 

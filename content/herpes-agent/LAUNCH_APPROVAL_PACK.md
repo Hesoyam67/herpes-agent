@@ -131,7 +131,7 @@ No checked boxes, no public rash. That is the law of the petri dish.
    ```
 2. If profile changes are approved, update avatar/header with the reviewed assets.
 3. Publish exactly the approved post text.
-4. Save the final URL in the content queue or a launch report.
+4. Save the final URL in [`POST_LAUNCH_REPORT_TEMPLATE.md`](POST_LAUNCH_REPORT_TEMPLATE.md) or a launch report copied from it.
 5. Watch replies/metrics manually or with approved read-only scans.
 6. Do not auto-reply unless Papu approves reply mode.
 
