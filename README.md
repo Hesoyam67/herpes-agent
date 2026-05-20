@@ -4,7 +4,37 @@
 
 # Herpes Agent 🦠 / Hermes Agent ☤
 
-> This is the Herpes Agent fork: open-source autonomous agent chaos, neon viral skin, free-first workflows, and memeable execution. Upstream engine: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). Start with [`HERPES_AGENT.md`](HERPES_AGENT.md) or [`README_HERPES_AGENT.md`](README_HERPES_AGENT.md). The viral language is a software distribution metaphor, not malware. Calm down, corporate antibody.
+> This is the Herpes Agent fork: open-source autonomous agent chaos, neon viral skin, free-first workflows, and memeable execution. Upstream engine: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). The viral language is a software distribution metaphor, not malware. Calm down, corporate antibody.
+
+## Herpes Agent quickstart: infect responsibly
+
+Herpes Agent is Hermes Agent wearing a biohazard hoodie: same MIT-licensed upstream machinery, plus a contagious parody skin, zero-budget autonomy workflows, and a public roadmap for useful chaos.
+
+```bash
+# Clone the fork, not the corporate beige immune response.
+gh repo clone Hesoyam67/herpes-agent
+cd herpes-agent
+
+# Install locally in editable mode.
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+python -m pip install -e .
+
+# Launch and activate the rash.
+hermes
+/skin herpes-agent
+```
+
+Start here:
+
+- [`HERPES_AGENT.md`](HERPES_AGENT.md) — doctrine, safety translation, and the open-source infection manifesto.
+- [`README_HERPES_AGENT.md`](README_HERPES_AGENT.md) — fork-specific install and activation guide.
+- [`docs/herpes-agent/demo.md`](docs/herpes-agent/demo.md) — plain-text demo capture of the Herpes Agent skin.
+- [`docs/herpes-agent/autonomous-scans.md`](docs/herpes-agent/autonomous-scans.md) — zero-cost daily repo scan workflow.
+- [`plans/herpes-agent/ROADMAP.md`](plans/herpes-agent/ROADMAP.md) — mutation roadmap, because even chaos deserves a checklist.
+
+Upstream credit stays loud: this fork is built on [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) and keeps the MIT/open-source posture intact. We spread docs, skills, demos, and useful workflows — not malware, spam, or credential goblin behavior.
 
 <p align="center">
   <a href="https://hermes-agent.nousresearch.com/docs/"><img src="https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge" alt="Documentation"></a>
