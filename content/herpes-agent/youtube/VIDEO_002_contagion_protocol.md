@@ -65,9 +65,14 @@ Bottom line: `no malware • no spam • no credential goblins`
 
 ## Render status
 
-A silent local dry-run render exists at `content/herpes-agent/youtube/video_002/` so the repeatable renderer can be verified without a TTS dependency.
+Final local production assets exist:
 
-Before publishing, replace the silent track with final voiceover audio and rerender:
+- Voiceover: `content/herpes-agent/youtube/video_002_voiceover.mp3`
+- Thumbnail: `content/herpes-agent/youtube/video_002/thumbnail.png`
+- Final MP4: `content/herpes-agent/youtube/video_002/herpes_agent_contagion_protocol_video.mp4`
+- Silent renderer dry run: `content/herpes-agent/youtube/video_002/herpes_agent_contagion_protocol_silent_dry_run.mp4`
+
+Re-render command:
 
 ```bash
 python3 scripts/herpes_agent_render_video_card.py \
@@ -76,4 +81,4 @@ python3 scripts/herpes_agent_render_video_card.py \
   --basename herpes_agent_contagion_protocol_video
 ```
 
-No upload/post is implied by this draft. It is a local production artifact only.
+No upload/post is implied by this draft. It is a local production artifact only until the correct YouTube/X publishing accounts are active.
