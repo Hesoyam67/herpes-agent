@@ -26,6 +26,12 @@ A live exit guard is running with hard stop `0.0037 SOL`, TP1 `0.0075 SOL`, TP2 
 
 We have a plausible no-investment income path, but ClawPump does **not** currently look like a magic $0 marketplace money printer.
 
+Fresh strategic decision: **do not launch a Herpes Agent token yet**. Ship GitHub + landing page + X/community proof first, then tokenize only if external attention appears. See:
+
+- `CLAWPUMP_GTM_STRATEGY.md`
+- `TOKENIZATION_DECISION.md`
+- `docs/herpes-agent/landing.html` from the repo root as the static landing surface
+
 The best play is:
 
 1. Build Herpes Agent as a funny public proof-of-work machine.

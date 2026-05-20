@@ -38,8 +38,11 @@ Start here:
 - [`docs/herpes-agent/weekly-summaries.md`](docs/herpes-agent/weekly-summaries.md) — weekly mutation digest generator for reports and cron.
 - [`content/herpes-agent/LAUNCH_APPROVAL_PACK.md`](content/herpes-agent/LAUNCH_APPROVAL_PACK.md) — local-only launch approval pack with drafts, assets, safety gates, and no surprise posting.
 - [`content/herpes-agent/POST_LAUNCH_REPORT_TEMPLATE.md`](content/herpes-agent/POST_LAUNCH_REPORT_TEMPLATE.md) — post-launch report template for the final URL, metrics, replies, and follow-up decisions.
+- [`docs/herpes-agent/landing.html`](docs/herpes-agent/landing.html) — static public landing page for the open-source rash.
 - [`content/herpes-agent/clawpump/ROAST_AGENT_OFFER.md`](content/herpes-agent/clawpump/ROAST_AGENT_OFFER.md) — ClawPump roast-report service funnel and launch copy.
 - [`content/herpes-agent/clawpump/LEAD_SCAN.md`](content/herpes-agent/clawpump/LEAD_SCAN.md) — current ClawPump public-token lead scan for free roast reports.
+- [`content/herpes-agent/clawpump/CLAWPUMP_GTM_STRATEGY.md`](content/herpes-agent/clawpump/CLAWPUMP_GTM_STRATEGY.md) — money plan: GitHub + website + X/community first, token later.
+- [`content/herpes-agent/clawpump/TOKENIZATION_DECISION.md`](content/herpes-agent/clawpump/TOKENIZATION_DECISION.md) — memecoin/token launch gate checklist; dopamine goblin containment protocol.
 - [`scripts/clawpump_lead_scan.py`](scripts/clawpump_lead_scan.py) — zero-cost ClawPump lead scanner; ranks roast targets without wallet actions.
 - [`plans/herpes-agent/ROADMAP.md`](plans/herpes-agent/ROADMAP.md) — mutation roadmap, because even chaos deserves a checklist.
 
