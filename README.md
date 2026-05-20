@@ -32,6 +32,7 @@ Start here:
 - [`README_HERPES_AGENT.md`](README_HERPES_AGENT.md) — fork-specific install and activation guide.
 - [`docs/herpes-agent/demo.md`](docs/herpes-agent/demo.md) — plain-text demo capture of the Herpes Agent skin.
 - [`docs/herpes-agent/autonomous-scans.md`](docs/herpes-agent/autonomous-scans.md) — zero-cost daily repo scan workflow.
+- [`docs/herpes-agent/weekly-summaries.md`](docs/herpes-agent/weekly-summaries.md) — weekly mutation digest generator for reports and cron.
 - [`plans/herpes-agent/ROADMAP.md`](plans/herpes-agent/ROADMAP.md) — mutation roadmap, because even chaos deserves a checklist.
 
 Upstream credit stays loud: this fork is built on [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) and keeps the MIT/open-source posture intact. We spread docs, skills, demos, and useful workflows — not malware, spam, or credential goblin behavior.
