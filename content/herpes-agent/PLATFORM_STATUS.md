@@ -13,20 +13,28 @@ Current browser findings:
 - Browserbase/headless sessions are not reliable for this project because Papu already has real Chrome profiles logged in. Lesson learned: inspect real local Chrome first, then use Browserbase only for public/logged-out research.
 - Local Chrome profile `Default` and `Profile 2` both contain non-secret account hints for `gercakadrian2@gmail.com`; `Profile 2` lists it first.
 - Real local Chrome / Adrian profile confirms target Google account `gercakadrian2@gmail.com` is accessible.
-- YouTube Studio under `gercakadrian2@gmail.com` currently opens channel:
+- Previous existing YouTube channel under that account remains:
   - Channel name: `Heso`
   - Handle: `@Hesoyam67`
   - Channel URL: `https://www.youtube.com/@Hesoyam67`
   - Channel ID: `UCIs3cPDpMZakUbCqZTZQwgA`
+- Dedicated Herpes Agent channel was created successfully under `gercakadrian2@gmail.com`:
+  - Channel name: `Herpes Agent`
+  - Channel ID: `UCCkIbnmaz7C8wKP6k6FZBpw`
+  - Studio URL: `https://studio.youtube.com/channel/UCCkIbnmaz7C8wKP6k6FZBpw`
+- Video 001 was uploaded to the Herpes Agent channel and saved as private:
+  - Title: `I Forked Hermes Agent and Gave It a Rash`
+  - Visible Short link from upload flow: `https://youtube.com/shorts/K1MMlNTULIU`
+  - Visibility: `Privat`
+  - Audience/COPPA: `Nein, es ist nicht speziell für Kinder`
+  - Copyright/pre-check: `Keine Probleme gefunden`
 - Account switcher also shows `heso2221@gmail.com` -> `Colomba` (`@colomba-swiss`) and `adrian.gercak25@gmail.com` -> `Adrian Gercak`.
-- YouTube create-channel UI is available for a new Brand Account managed by `gercakadrian2@gmail.com`; no payment/phone/password/2FA gate was observed before the last automation limit.
-- Upload UI is reachable for existing channel `Heso`, but no Herpes Agent channel has been created/selected yet.
 
 Decision:
 
 - Do not upload Herpes Agent content to `Heso`/`@Hesoyam67` or `Colomba` unless Papu explicitly wants that existing channel repurposed or used.
-- Prefer creating/selecting a dedicated `Herpes Agent` Brand/channel under `gercakadrian2@gmail.com`, then upload Video 001 as private/unlisted first.
-- Continue producing local-ready video assets and metadata so upload is one click once the correct channel/account is active.
+- Keep Video 001 private until Papu explicitly approves public visibility/timing.
+- Next YouTube step is optional polish: custom thumbnail/description verification and public release decision.
 
 ## X / Twitter
 
@@ -65,8 +73,8 @@ Video 001: Patient Zero / launch intro
 
 ## Next action
 
-1. Create/select a dedicated `Herpes Agent` Brand/channel under `gercakadrian2@gmail.com` using real local Chrome Profile 2 / Adrian.
-2. Upload Video 001 as private/unlisted first, verify metadata/thumbnail, then publish only when channel identity is correct and visibility is intentional.
+1. Keep Video 001 private until Papu explicitly approves public visibility/timing.
+2. Optionally polish YouTube before release: custom thumbnail, final description check, pinned comment draft.
 3. Re-verify browser X active account; post matching X launch copy only from `@Heso_67`.
 
 Corporate antibody note: we are authorized to grow aggressively, but we are not uploading to the wrong account like a raccoon with admin rights. Also: real local Chrome first, headless/browserbase second. The robot has been disciplined with a tiny spreadsheet.
