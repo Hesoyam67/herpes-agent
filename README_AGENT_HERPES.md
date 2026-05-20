@@ -11,11 +11,45 @@ Start here:
 
 ## Activate The Rash
 
-Once installed from this fork, switch the CLI skin:
+### Fast path for this fork
+
+```bash
+# Clone the fork
+gh repo clone Hesoyam67/agent-herpes
+cd agent-herpes
+
+# Install in editable mode using the existing Hermes dev pattern
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+python -m pip install -e .
+
+# Launch and switch skin inside the CLI
+hermes
+/skin agent-herpes
+```
+
+### If Hermes is already installed from this checkout
 
 ```bash
 hermes config set display.skin agent-herpes
 # restart Hermes, or use /skin agent-herpes inside an interactive session
+```
+
+### Development sanity check
+
+```bash
+python3 - <<'PY'
+from hermes_cli.skin_engine import load_skin
+skin = load_skin('agent-herpes')
+print(skin.name, skin.branding['agent_name'])
+PY
+```
+
+Expected output contains:
+
+```text
+agent-herpes Agent Herpes
 ```
 
 ## Upstream Credit

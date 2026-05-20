@@ -17,7 +17,7 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 
 - [ ] Add README section explaining Agent Herpes without hiding upstream credit.
 - [ ] Add screenshots or terminal capture.
-- [ ] Add install instructions for using the skin.
+- [x] Add install instructions for using the skin.
 - [x] Add issue templates:
   - infection report (bug)
   - mutation request (feature)
