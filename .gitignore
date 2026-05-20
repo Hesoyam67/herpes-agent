@@ -73,3 +73,10 @@ models-dev-upstream/
 hermes_cli/tui_dist/*
 hermes_cli/scripts/
 docs/superpowers/*
+
+# Herpes Agent launch asset scratch variants: keep only reviewed public candidates.
+assets/herpes-agent/*
+!assets/herpes-agent/
+!assets/herpes-agent/herpes-agent-avatar-x-400.png
+!assets/herpes-agent/herpes-agent-banner-x-header-1500x500-v3.png
+!assets/herpes-agent/herpes-agent-grok-imagine-manifest.json
