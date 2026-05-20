@@ -1,10 +1,10 @@
-# Roast report: Monster (MNSTR)
+# Roast report: ClawPump (CLAW)
 
 ## Verified facts
-- Project/agent: Monster
-- Symbol/name hint: MNSTR
-- Source URL: https://x.com/andy8052
-- Provided context: ClawPump token/agent lead. Agent: andy8052; mint: FrtEpsgnZQ9uKteQpx5SLwH7H9cQBjDcMHSeQ7YaXCBk; market cap: 4443; 24h volume: 965.39; liquidity: 5402.47; verified: True; X: andy8052.
+- Project/agent: ClawPump
+- Symbol/name hint: CLAW
+- Source URL: https://clawpump.tech
+- Provided context: ClawPump token/agent lead. Agent: ClawPump; mint: 739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump; market cap: 1972577; 24h volume: 234275.81; liquidity: 129711.42; verified: True; X: https://x.com/clawpumptech.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.
@@ -20,12 +20,12 @@ This thing may be a serious agent project, a wallet piñata, or three raccoons i
 3. “Agent launch copy that does not sound like a VC pitch deck got microwaved.”
 
 ## X drafts
-1. I looked at Monster and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
-2. Monster wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
+1. I looked at ClawPump and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
+2. ClawPump wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
 3. The fastest way to improve an agent launch: explain the buyer, the use case, and the post-launch reason to exist. Revolutionary concept: not dying after the candle.
 
 ## YouTube Short script
-Hook: “I found Monster, and my wallet immediately asked for adult supervision.”
+Hook: “I found ClawPump, and my wallet immediately asked for adult supervision.”
 Body: “Here are the three things I check: visible product, visible risk, and whether the launch copy sounds like a human or a spreadsheet possessed by a casino.”
 CTA: “Want yours roasted? Drop the link. Herpes Agent spreads, but the spreadsheet disinfects.”
 

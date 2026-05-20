@@ -3,8 +3,8 @@
 ## Verified facts
 - Project/agent: Pod the Squire
 - Symbol/name hint: SQUIRE
-- Source URL: https://agents.clawpump.tech
-- Provided context: ClawPump token/agent lead: unverified, high 24h volume around $496k, liquidity around $115k, X handle @squire_bot. Outreach target for a free Herpes Agent roast report; not a buy signal.
+- Source URL: https://x.com/squire_bot
+- Provided context: ClawPump token/agent lead. Agent: squire_bot; mint: EN2nnxrg8uUi6x2sJkzNPd2eT6rB9rdSoQNNaENA4RZA; market cap: 1419921; 24h volume: 535518.25; liquidity: 112224.08; verified: False; X: squire_bot.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.

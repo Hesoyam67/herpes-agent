@@ -3,8 +3,8 @@
 ## Verified facts
 - Project/agent: Phoenix Agent
 - Symbol/name hint: PHOENIX
-- Source URL: https://x.com/PhoenixTrade
-- Provided context: ClawPump lead scan rank #8: unverified token/agent, 24h volume about $195, zero liquidity reported by scan, market cap about $2.4k, X handle @PhoenixTrade and website surfaced. Use as proof-of-work for future @Heso_67 launch, not financial advice.
+- Source URL: https://agents.clawpump.tech/marketplace/agents/feb8abd7-b59b-4bcc-851d-225edb296420
+- Provided context: ClawPump token/agent lead. Agent: Phoenix Agent; mint: H9xqswaJeDbfNjswxBCCpZBzcQKjDCF4VVERrWcRudq3; market cap: 2356.94; 24h volume: 194.85; liquidity: 0; verified: False; X: https://x.com/PhoenixTrade.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.

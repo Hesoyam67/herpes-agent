@@ -3,8 +3,8 @@
 ## Verified facts
 - Project/agent: ClaudeThinks
 - Symbol/name hint: THINK
-- Source URL: https://agents.clawpump.tech
-- Provided context: ClawPump token/agent lead: unverified, market cap around $9.1k, 24h volume around $3.0k, liquidity around $10.0k, no X handle visible in API. Good example of missing-social/context risk smell; not a buy signal.
+- Source URL: https://agents.clawpump.tech/tokens/fpnBHZZLouozB9eZCzkhxBeGSv19JZjKvmZ1wuiBWWw
+- Provided context: ClawPump token/agent lead. Agent: Claude; mint: fpnBHZZLouozB9eZCzkhxBeGSv19JZjKvmZ1wuiBWWw; market cap: 9185; 24h volume: 3010.14; liquidity: 10099.97; verified: False; X: n/a.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.

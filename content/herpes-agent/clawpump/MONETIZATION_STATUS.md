@@ -1,6 +1,6 @@
 # ClawPump monetization status
 
-Updated: 2026-05-20T10:46:33Z
+Updated: 2026-05-20T13:41:07Z
 
 ## Solana policy update
 
@@ -8,7 +8,19 @@ Papu widened the previous fee-only policy. The available small SOL balance may n
 
 Allowed uses include fees, burner-wallet setup, and small token/operational experiments when the target, amount, and purpose are explicit and tied to the ClawPump revenue experiment. Still avoid unclear wallet actions, liquidity locks, ongoing subscriptions, or anything reckless/destructive.
 
-At update time, `solana` and `spl-token` CLIs were not installed locally, so no wallet was created, funded, connected, or used.
+## Live CLAW scout position
+
+On 2026-05-20T13:40Z, after Papu explicitly said SOL was available for ClawPump money attempts, Herpes Agent executed one tiny ecosystem-aligned scout buy:
+
+- Token: `CLAW / ClawPump`
+- Mint: `739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump`
+- Spend: `0.005 SOL`
+- Fill: `211.335175 CLAW`
+- Tx: `4ckpqaoxxtLF9LwemgCpkk8RTqPhDyQCLVED5xPVCho7QBNqc9Cs8fMyhvR3wf2rrksLN8CJTktxyZiwUycbsE9L`
+- Guard: `/Users/hesoyam/.openclaw/workspace/state/live-exit-guards/739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump.json`
+- Detailed status: `content/herpes-agent/clawpump/CLAW_TRADE_STATUS.md`
+
+A live exit guard is running with hard stop `0.0037 SOL`, TP1 `0.0075 SOL`, TP2 `0.010 SOL`, and a 24h time stop. Tiny bet. Tiny claws. No wallet piñata ceremony.
 
 ## Executive goblin verdict
 

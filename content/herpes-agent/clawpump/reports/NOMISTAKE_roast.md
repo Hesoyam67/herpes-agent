@@ -3,8 +3,8 @@
 ## Verified facts
 - Project/agent: Claude Made Me a Millionaire
 - Symbol/name hint: NOMISTAKE
-- Source URL: https://agents.clawpump.tech
-- Provided context: ClawPump token/agent lead: unverified Claude Code demo token, tiny market cap around $4.6k, 24h volume around $2.3k, liquidity around $5.8k, associated with @clawpumptech. Good sample roast for launch-copy/risk-smell positioning; not a buy signal.
+- Source URL: https://clawpump.tech
+- Provided context: ClawPump token/agent lead. Agent: Claude Code Demo; mint: 5R6Uq1vGRgV8xQdgGpFrcAK6BZCFjggNUNYnnf8aKZFN; market cap: 4640; 24h volume: 2326.98; liquidity: 5787.81; verified: False; X: clawpumptech.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.

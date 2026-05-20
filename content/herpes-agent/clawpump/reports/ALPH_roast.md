@@ -3,8 +3,8 @@
 ## Verified facts
 - Project/agent: Alpha Arena
 - Symbol/name hint: ALPH
-- Source URL: not provided
-- Provided context: ClawPump lead scan rank #5: unverified token, 24h volume about $1.8k, liquidity about $12.2k, market cap about $23.5k; no X handle surfaced in scan. Use as proof-of-work for future @Heso_67 launch, not financial advice.
+- Source URL: https://agents.clawpump.tech/tokens/4GQ1eYpTat1Tf1CjHG5nzWXLP5GV8GopQTqMEdbuMLux
+- Provided context: ClawPump token/agent lead. Agent: Alpha Arena; mint: 4GQ1eYpTat1Tf1CjHG5nzWXLP5GV8GopQTqMEdbuMLux; market cap: 23506; 24h volume: 1778.58; liquidity: 12206.54; verified: False; X: n/a.
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.
