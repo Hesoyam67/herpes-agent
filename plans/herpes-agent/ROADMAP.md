@@ -43,6 +43,7 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 Requires Papu approval before posting externally.
 
 - [ ] Publish launch post.
+- [x] Prepare local launch approval pack.
 - [ ] Share demo GIF/video.
 - [ ] Reply to comments/issues.
 - [ ] Track stars/forks/comments.

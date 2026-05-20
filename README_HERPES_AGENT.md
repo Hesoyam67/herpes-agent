@@ -12,6 +12,7 @@ Start here:
 - `docs/herpes-agent/autonomy-loop-demo.md` — harmless local autonomy loop demo.
 - `docs/herpes-agent/autonomous-scans.md` — daily repo scan workflow.
 - `docs/herpes-agent/weekly-summaries.md` — weekly mutation digest workflow.
+- `content/herpes-agent/LAUNCH_APPROVAL_PACK.md` — local-only launch pack with drafts, assets, and approval checklist.
 
 ## Activate The Rash
 

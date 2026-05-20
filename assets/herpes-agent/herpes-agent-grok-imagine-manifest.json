@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-05-20T03:05:15Z",
+  "method": "xAI / Grok Imagine image API via Hermes xai-oauth credentials",
+  "model": "grok-imagine-image",
+  "provider": "xai-oauth",
+  "public_launch_candidates": [
+    {
+      "kind": "avatar",
+      "path": "assets/herpes-agent/herpes-agent-avatar-x-400.png",
+      "aspect_ratio": "1:1",
+      "review_note": "Cute neon cartoon mascot; no gore, medical realism, platform logo, or malware claim."
+    },
+    {
+      "kind": "x_header",
+      "path": "assets/herpes-agent/herpes-agent-banner-x-header-1500x500-v3.png",
+      "aspect_ratio": "3:1",
+      "review_note": "Neon network/header art with Herpes Agent text; no gore, medical realism, platform logo, or malware claim."
+    }
+  ],
+  "prompts": {
+    "avatar": "Square avatar icon for an X/social profile for 'Herpes Agent': a cute mischievous harmless cartoon biohazard/virus mascot, chaotic neon viral parody of an autonomous AI agent, neon green magenta cyan glow, dark terminal-hacker background with tiny command-line pixels, subtle winged-helmet/messenger motif as a generic mythic reference (no real logos), vector sticker style, centered composition, crisp silhouette, funny and safe, no gore, no medical realism, no malware/spam imagery, no X logo, no Grok logo, minimal or no text; optional tiny 'HA' monogram only if clean.",
+    "banner": "Wide X/social profile header concept for 'Herpes Agent': chaotic neon viral parody of open-source autonomous workflows, glowing green/magenta/cyan network nodes spreading across a dark terminal UI, cute biohazard mascot icons and corporate-antibody energy, legible cyberpunk terminal title text 'Herpes Agent' centered with safe margins, funny but safe brand art, no gore, no medical realism, no malware/spam claims, no X logo, no Grok logo, high contrast, broad horizontal composition suitable for cropping to a 1500x500 header."
+  },
+  "approval_gate": "Assets are committed for review only; do not update public profiles or post publicly without explicit Papu approval."
+}
