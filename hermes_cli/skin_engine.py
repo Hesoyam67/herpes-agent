@@ -196,6 +196,72 @@ _BUILTIN_SKINS: Dict[str, Dict[str, Any]] = {
         },
         "tool_prefix": "┊",
     },
+    "agent-herpes": {
+        "name": "agent-herpes",
+        "description": "Neon viral chaos — autonomous, open-source, and aggressively unserious",
+        "colors": {
+            "banner_border": "#FF4FD8",
+            "banner_title": "#B6FF00",
+            "banner_accent": "#00F5D4",
+            "banner_dim": "#8A2BE2",
+            "banner_text": "#F8F8FF",
+            "ui_accent": "#B6FF00",
+            "ui_label": "#00F5D4",
+            "ui_ok": "#7CFF6B",
+            "ui_error": "#FF3864",
+            "ui_warn": "#FFD166",
+            "prompt": "#B6FF00",
+            "input_rule": "#FF4FD8",
+            "response_border": "#00F5D4",
+            "status_bar_bg": "#14001F",
+            "status_bar_text": "#F8F8FF",
+            "status_bar_strong": "#B6FF00",
+            "status_bar_dim": "#9B5DE5",
+            "status_bar_good": "#7CFF6B",
+            "status_bar_warn": "#FFD166",
+            "status_bar_bad": "#FF3864",
+            "status_bar_critical": "#FF0054",
+            "session_label": "#00F5D4",
+            "session_border": "#FF4FD8",
+        },
+        "spinner": {
+            "waiting_faces": ["(🦠)", "(☣)", "(⚡)", "(◉)", "(ಠ_ಠ)"],
+            "thinking_faces": ["(🦠)", "(☣)", "(≖‿≖)", "(╬ಠ益ಠ)", "(🧬)"],
+            "thinking_verbs": [
+                "shedding virions", "infecting timelines", "mutating plans", "evading corporate antibodies",
+                "weaponizing free tools", "coughing on the roadmap", "replicating chaos", "licking the build logs",
+            ],
+            "wings": [
+                ["☣ ", " ☣"],
+                ["🦠 ", " 🦠"],
+                ["⟪viral ", " viral⟫"],
+                ["💊 ", " 🧪"],
+            ],
+        },
+        "branding": {
+            "agent_name": "Agent Herpes",
+            "welcome": "Agent Herpes online. Wash your hands, not your git history. Type /help before the rash spreads.",
+            "goodbye": "Going dormant. Still contagious. 🦠",
+            "response_label": " 🦠 Herpes ",
+            "prompt_symbol": "☣",
+            "help_header": "(🦠) Available Infection Vectors",
+        },
+        "tool_prefix": "☣",
+        "banner_logo": """[bold #B6FF00] █████╗  ██████╗ ███████╗███╗   ██╗████████╗    ██╗  ██╗███████╗██████╗ ██████╗ ███████╗███████╗[/]
+[bold #00F5D4]██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝    ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝[/]
+[#FF4FD8]███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║       ███████║█████╗  ██████╔╝██████╔╝█████╗  ███████╗[/]
+[#B6FF00]██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║       ██╔══██║██╔══╝  ██╔══██╗██╔═══╝ ██╔══╝  ╚════██║[/]
+[#00F5D4]██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║       ██║  ██║███████╗██║  ██║██║     ███████╗███████║[/]
+[#FF4FD8]╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝[/]""",
+        "banner_hero": """[#FF4FD8]        .-''''-.        .-''''-.        [/]
+[#B6FF00]      .'  🦠   '.    .'   ☣  '.       [/]
+[#00F5D4]     /  viral    \\  /  roadmap \\      [/]
+[#FF4FD8]    |  autonomy  ||  no budget |     [/]
+[#B6FF00]     \\  mutates /  \\  spreads /      [/]
+[#00F5D4]      '.      .'    '.      .'       [/]
+[#FF4FD8]        '-..-'        '-..-'         [/]
+[dim #9B5DE5]          open source infection vector active[/]""",
+    },
     "ares": {
         "name": "ares",
         "description": "War-god theme — crimson and bronze",

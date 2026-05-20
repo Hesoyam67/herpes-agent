@@ -2,7 +2,9 @@
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
 
-# Hermes Agent ☤
+# Agent Herpes 🦠 / Hermes Agent ☤
+
+> This is the Agent Herpes fork: open-source autonomous agent chaos, neon viral skin, free-first workflows, and memeable execution. Upstream engine: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). Start with [`AGENT_HERPES.md`](AGENT_HERPES.md) or [`README_AGENT_HERPES.md`](README_AGENT_HERPES.md). The viral language is a software distribution metaphor, not malware. Calm down, corporate antibody.
 
 <p align="center">
   <a href="https://hermes-agent.nousresearch.com/docs/"><img src="https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge" alt="Documentation"></a>

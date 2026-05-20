@@ -1,0 +1,43 @@
+name: Mutation request 🧬
+description: Suggest a new Agent Herpes feature, workflow, skin tweak, or meme cannon
+title: "[mutation]: "
+labels: [enhancement, mutation-request]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a useful mutation. Funny is good. Free/open-source is mandatory. Corporate beige will be quarantined.
+  - type: textarea
+    id: mutation
+    attributes:
+      label: Mutation idea
+      description: What should Agent Herpes grow next?
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why it helps
+      description: What leverage does this create for users or the project?
+    validations:
+      required: true
+  - type: dropdown
+    id: cost
+    attributes:
+      label: Cost profile
+      options:
+        - Free/open-source
+        - Free tier with caveats
+        - Costs money, but tiny
+        - Costs money, please roast me
+    validations:
+      required: true
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Constraints
+      options:
+        - label: This can be built without paid proprietary dependencies.
+          required: true
+        - label: This does not require spam, malware, credential theft, or cursed nonsense.
+          required: true

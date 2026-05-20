@@ -1,0 +1,47 @@
+name: Infection report 🦠
+description: Bug report for Agent Herpes mutations
+title: "[infection]: "
+labels: [bug, infection-report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a rash in the machinery. Keep it reproducible; keep secrets out.
+  - type: textarea
+    id: symptoms
+    attributes:
+      label: Symptoms
+      description: What broke? What did the agent cough up?
+      placeholder: The spinner licked the build logs and then exploded...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Commands, config, or exact steps. Redact secrets.
+      placeholder: |
+        1. Run ...
+        2. Switch to /skin agent-herpes
+        3. Watch chaos become legally actionable
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      description: Paste only non-sensitive output.
+      render: shell
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed API keys, tokens, phone numbers, private messages, and other secrets.
+          required: true
