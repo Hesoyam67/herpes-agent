@@ -7,6 +7,7 @@ Start here:
 - `HERPES_AGENT.md` — doctrine, tone, safety translation.
 - `plans/herpes-agent/ROADMAP.md` — mutation roadmap.
 - `content/herpes-agent/CONTENT_QUEUE.md` — drafts and demo ideas.
+- `docs/herpes-agent/contagion-protocol.md` — safe autonomous operating protocol.
 - `docs/herpes-agent/autonomy-loop-demo.md` — harmless local autonomy loop demo.
 - `docs/herpes-agent/autonomous-scans.md` — daily repo scan workflow.
 - `docs/herpes-agent/weekly-summaries.md` — weekly mutation digest workflow.

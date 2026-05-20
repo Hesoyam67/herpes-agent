@@ -35,6 +35,7 @@ Goal: prove how far an autonomous agent project can grow in a week with open-sou
 - [x] Create a local metrics markdown report.
 - [x] Add `scripts/herpes_agent_daily_scan.py` with no paid dependencies.
 - [x] Create weekly summary generator.
+- [x] Add contagion protocol docs for safe autonomous mutations.
 
 ## Phase 3: Public Infection
 
