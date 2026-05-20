@@ -125,8 +125,9 @@ No checked boxes, no public rash. That is the law of the petri dish.
 1. Re-run quick repo verification:
    ```bash
    git status --short --branch
+   python3 scripts/herpes_agent_launch_readiness.py --verbose
    gh issue list --repo Hesoyam67/herpes-agent --limit 20
-   python3 -m py_compile hermes_cli/skin_engine.py scripts/herpes_agent_daily_scan.py scripts/herpes_agent_weekly_summary.py scripts/render_herpes_agent_demo.py scripts/herpes_agent_autonomy_loop_demo.py
+   python3 -m py_compile hermes_cli/skin_engine.py scripts/herpes_agent_daily_scan.py scripts/herpes_agent_weekly_summary.py scripts/render_herpes_agent_demo.py scripts/herpes_agent_autonomy_loop_demo.py scripts/herpes_agent_launch_readiness.py
    ```
 2. If profile changes are approved, update avatar/header with the reviewed assets.
 3. Publish exactly the approved post text.
