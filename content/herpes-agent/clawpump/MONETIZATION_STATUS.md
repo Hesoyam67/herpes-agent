@@ -1,6 +1,6 @@
 # ClawPump monetization status
 
-Updated: 2026-05-20T10:34:17Z
+Updated: 2026-05-20T10:46:33Z
 
 ## Solana policy update
 
@@ -52,6 +52,14 @@ Prepared launch post at `/tmp/herpes_clawpump_xpost.txt`.
 - `content/herpes-agent/clawpump/ROAST_AGENT_OFFER.md`
 - `content/herpes-agent/clawpump/SAMPLE_CLAWPUMP_ROAST.md`
 - `scripts/herpes_agent_roast_report.py`
+- `scripts/clawpump_lead_scan.py`
+- `content/herpes-agent/clawpump/LEAD_SCAN.md`
+- `content/herpes-agent/clawpump/reports/SQUIRE_roast.md`
+- `content/herpes-agent/clawpump/reports/NOMISTAKE_roast.md`
+- `content/herpes-agent/clawpump/reports/THINK_roast.md`
+- `content/herpes-agent/clawpump/reports/ALPH_roast.md`
+- `content/herpes-agent/clawpump/reports/MNSTR_roast.md`
+- `content/herpes-agent/clawpump/reports/PHOENIX_roast.md`
 
 These create the no-cost service funnel:
 
@@ -68,7 +76,7 @@ Atomic next pass:
 2. Re-verify active browser X account exactly as `@Heso_67` before posting.
 3. Publish the free-roast offer post only after that verification passes.
 4. Track replies/DMs manually.
-5. Deliver first 3 free roasts using `scripts/herpes_agent_roast_report.py`.
+5. Deliver existing free-roast proofs (`SQUIRE`, `NOMISTAKE`, `THINK`, `ALPH`, `MNSTR`, `PHOENIX`) or generate more with `scripts/herpes_agent_roast_report.py`.
 6. If demand appears, set a payment/wallet route or ClawPump paid listing with explicit wallet/spend policy.
 
 ## Guardrails
