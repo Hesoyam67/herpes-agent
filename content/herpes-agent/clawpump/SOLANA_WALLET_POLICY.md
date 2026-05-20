@@ -38,7 +38,9 @@ Preferred setup:
 
 ## Current machine state
 
-At the time this policy was written, Solana CLI tools were not installed on this machine (`solana` and `spl-token` were not found in PATH), so no wallet was created, connected, funded, or used.
+At the time this policy was first written, Solana CLI tools were not installed on this machine (`solana` and `spl-token` were not found in PATH), so no wallet was created, connected, funded, or used.
+
+2026-05-20T10:56Z update: a safe local custody scan (no secrets printed) verified that this environment has private-key control for `97H3...4PSh`; that wallet currently has `0.014443356 SOL` plus one SPL token balance. No fresh wallet is needed for Herpes Agent/ClawPump control. The pre-rotation wallet `4rN1...5oBj` is also locally controlled but only has rent/min-balance dust (`0.00089088 SOL`); an attempted sweep to `97H3...4PSh` failed because draining it would violate Solana rent/min-balance rules. The old bridge incident wallet `HQYb...Meuu` has `0.009889162 SOL`, but no matching local private key was found, so it must not be treated as controllable unless signing material is recovered.
 
 ## Practical implication
 
