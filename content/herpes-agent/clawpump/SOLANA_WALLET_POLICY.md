@@ -1,32 +1,31 @@
 # Solana wallet / fee policy
 
-Updated: 2026-05-20T10:19:58Z
+Updated: 2026-05-20T10:31:00Z
 
 ## Current authorization
 
-Papu authorized sending a tiny amount of SOL, approximately `0.009 SOL`, to a dedicated Solana wallet so Herpes Agent can cover operational Solana fees if a ClawPump/Solana action needs gas.
+Papu widened the previous mosquito-gas policy: the available small SOL balance may be used for Herpes Agent / ClawPump revenue attempts so work is not blocked by a zero-SOL wallet.
 
-This is **not** a general trading bankroll. It is mosquito gas.
+This allows small, bounded actions such as fees, token buys, wallet setup, or other operational ClawPump/Solana moves when they are directly tied to the revenue experiment and the active wallet/action is clear.
 
 ## Allowed use
 
-The `0.009 SOL` fee float may be used only for:
+The small SOL balance may be used for:
 
 - network transaction fees;
 - wallet/account setup transactions required to save or verify an external Solana wallet;
-- tiny operational gas for a specific Herpes Agent / ClawPump listing or demo action that has already passed identity and safety gates.
+- tiny operational gas for a specific Herpes Agent / ClawPump listing or demo action that has already passed identity and safety gates;
+- token buys or similar small experiments only when the target, amount, and purpose are explicit and the action is not reckless/destructive.
 
-## Not allowed without explicit fresh approval
+## Still not allowed without explicit fresh approval
 
-Do not use this fee float for:
+Do not use this balance for:
 
-- buying tokens;
-- speculative trading;
-- liquidity provision;
-- paid hosting/monthly subscriptions;
-- marketplace purchases;
+- unclear wallet actions where the active wallet, destination, or purpose is unknown;
+- paid hosting/monthly subscriptions unrelated to ClawPump revenue validation;
+- liquidity provision or any action that could lock funds;
 - tips/donations;
-- any irreversible action where the active wallet, destination, or purpose is unclear.
+- any spend that exceeds the available small SOL float or creates ongoing obligations.
 
 ## Wallet custody rule
 

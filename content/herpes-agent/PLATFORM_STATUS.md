@@ -47,12 +47,15 @@ Current findings:
 - X API write/search attempts currently fail with `CreditsDepleted`, so API posting/search is blocked without adding paid X credits. Budget rule says no buying credits.
 - Browserbase X is logged out.
 - Local Chrome X is logged in, but browser account appears to be `@ClawSafe_sec`, not `@Heso_67`.
+- 2026-05-20T10:27:53Z recheck via local Chrome DevTools port `9333`: X Home profile link was `https://x.com/ClawSafe_sec` and active avatar test id was `UserAvatar-Container-ClawSafe_sec`; the `@Heso_67` browser gate did not pass, so no post was published.
+- 2026-05-20T10:34:17Z atomic account-switch pass via local Chrome DevTools port `9333`: X `account/settings.json` returned `screen_name: ClawSafe_sec`; active DOM avatars included `UserAvatar-Container-ClawSafe_sec`. The account switcher menu listed only `Add an existing account` -> `https://x.com/i/flow/login` and `Log out @ClawSafe_sec` -> `https://x.com/logout`; no `@Heso_67` switch target was available.
+- `Add an existing account` was opened only far enough to inspect the existing-account path. It showed `/i/flow/login` without an `@Heso_67` candidate, then the page was restored to `/home` and no post was attempted.
 
 Decision:
 
 - Do not post through browser while the active browser account is not `@Heso_67`.
 - Do not buy X API credits.
-- Keep X content queued locally until either browser is switched to `@Heso_67` or API credits are available without violating the zero-budget rule.
+- Keep X content queued locally until Papu manually switches/opens real Chrome X as `@Heso_67`, or API credits are available without violating the zero-budget rule.
 
 ## Grok / Grok Imagine
 
@@ -75,6 +78,6 @@ Video 001: Patient Zero / launch intro
 
 1. Keep Video 001 private until Papu explicitly approves public visibility/timing.
 2. Optionally polish YouTube before release: custom thumbnail, final description check, pinned comment draft.
-3. Re-verify browser X active account; post matching X launch copy only from `@Heso_67`.
+3. Papu/manual next step for X: switch or open real Chrome X as `@Heso_67`, then re-run the browser gate and post matching X launch copy only after active-account verification is exactly `@Heso_67`.
 
 Corporate antibody note: we are authorized to grow aggressively, but we are not uploading to the wrong account like a raccoon with admin rights. Also: real local Chrome first, headless/browserbase second. The robot has been disciplined with a tiny spreadsheet.
