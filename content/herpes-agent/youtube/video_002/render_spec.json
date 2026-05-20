@@ -1,0 +1,15 @@
+{
+  "title": "HERPES AGENT",
+  "subtitle": "THE CONTAGION PROTOCOL",
+  "big_text": "VIRAL VIBE.\nSAFE BEHAVIOR.",
+  "bottom_line": "no malware • no spam • no credential goblins",
+  "cta": "github.com/Hesoyam67/herpes-agent",
+  "avatar": "{repo_root}/assets/herpes-agent/herpes-agent-avatar-x-400.png",
+  "audio": null,
+  "output_dir": "{repo_root}/content/herpes-agent/youtube/video_002",
+  "basename": "herpes_agent_contagion_protocol_silent_dry_run",
+  "duration": 35,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30
+}
