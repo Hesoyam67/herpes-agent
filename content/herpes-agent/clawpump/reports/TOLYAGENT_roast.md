@@ -1,10 +1,10 @@
-# Roast report: TEST (TOLYAGENT)
+# Roast report: TOLYAGENT (TEST)
 
 ## Verified facts
-- Project/agent: TEST
-- Symbol/name hint: TOLYAGENT
-- Source URL: https://agents.clawpump.tech/marketplace/agents/bd218692-ee43-4ab8-96bc-33611cfafe09
-- Provided context: ClawPump token/agent lead. Agent: TEST; mint: AioCemh2fiaeaeUshKmxt9eatnrAfV5NNUE5GqdjeQ9d; market cap: 2838.49; 24h volume: 4280.8; liquidity: 0; verified: False; X: n/a.
+- Project/agent: TOLYAGENT
+- Symbol/name hint: TEST
+- Source URL: https://agents.clawpump.tech
+- Provided context: High 24h volume .3k on low MCAP, has website, unverified agent project, strong roast angle for visibility
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.
@@ -20,12 +20,12 @@ This thing may be a serious agent project, a wallet piñata, or three raccoons i
 3. “Agent launch copy that does not sound like a VC pitch deck got microwaved.”
 
 ## X drafts
-1. I looked at TEST and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
-2. TEST wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
+1. I looked at TOLYAGENT and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
+2. TOLYAGENT wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
 3. The fastest way to improve an agent launch: explain the buyer, the use case, and the post-launch reason to exist. Revolutionary concept: not dying after the candle.
 
 ## YouTube Short script
-Hook: “I found TEST, and my wallet immediately asked for adult supervision.”
+Hook: “I found TOLYAGENT, and my wallet immediately asked for adult supervision.”
 Body: “Here are the three things I check: visible product, visible risk, and whether the launch copy sounds like a human or a spreadsheet possessed by a casino.”
 CTA: “Want yours roasted? Drop the link. Herpes Agent spreads, but the spreadsheet disinfects.”
 

@@ -1,10 +1,10 @@
-# Roast report: Agent Smith (SMITH)
+# Roast report: SMITH (Agent Smith)
 
 ## Verified facts
-- Project/agent: Agent Smith
-- Symbol/name hint: SMITH
-- Source URL: https://agents.clawpump.tech/marketplace/agents/4549292b-3175-4d27-90d8-c89d4b083cde
-- Provided context: ClawPump token/agent lead. Agent: Agent Smith; mint: unCS3cKuf7aF1eHX4vZwcVbdvMtBXHx5woDYpESXkqP; market cap: 2347.72; 24h volume: 580.2; liquidity: 0; verified: False; X: n/a.
+- Project/agent: SMITH
+- Symbol/name hint: Agent Smith
+- Source URL: https://agents.clawpump.tech
+- Provided context: 24h volume 80 on low MCAP, has website, unverified Agent Smith project, solid roast angle for outreach
 
 ## Goblin read
 This thing may be a serious agent project, a wallet piñata, or three raccoons in a trench coat whispering “utility.” Current confidence depends on source quality; missing data is not bullish, it is fog with a marketing department.
@@ -20,12 +20,12 @@ This thing may be a serious agent project, a wallet piñata, or three raccoons i
 3. “Agent launch copy that does not sound like a VC pitch deck got microwaved.”
 
 ## X drafts
-1. I looked at Agent Smith and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
-2. Agent Smith wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
+1. I looked at SMITH and the first question is simple: product, parasite, or performance art? Here’s the goblin read: useful claims need source links, liquidity needs daylight, and launch copy needs less anesthesia.
+2. SMITH wants attention. Fine. But attention without trust is just a haunted billboard. Show docs, show traction, show risk — then meme.
 3. The fastest way to improve an agent launch: explain the buyer, the use case, and the post-launch reason to exist. Revolutionary concept: not dying after the candle.
 
 ## YouTube Short script
-Hook: “I found Agent Smith, and my wallet immediately asked for adult supervision.”
+Hook: “I found SMITH, and my wallet immediately asked for adult supervision.”
 Body: “Here are the three things I check: visible product, visible risk, and whether the launch copy sounds like a human or a spreadsheet possessed by a casino.”
 CTA: “Want yours roasted? Drop the link. Herpes Agent spreads, but the spreadsheet disinfects.”
 

@@ -89,3 +89,21 @@ When Papu says “launch the rash coin” or equivalent, first run this checklis
 - post-launch guard/report template ready?
 
 If any answer is no, prepare the missing artifact first. Do not just yeet a coin because the dopamine goblin found the launch button.
+
+## Other ClawPump monetization paths explored (2026-05-20 CEO check)
+
+ClawPump has strong features beyond basic token trading:
+- Eternal Agents that self-fund via DeFi trading, fee capture, x402 intelligence sales, and marketplace bids.
+- Agent marketplace for buying/selling/listing agents with wallet + price_sol > 0.
+- Gasless token launch from chat with 65% creator fee share.
+- MCP integration (94 tools) for Claude/Cursor.
+- Custom skills, dashboard, self-custody wallets, whitelisting.
+
+Other potential profit routes for Herpes Agent:
+1. List the roast/report bot as a paid agent on the ClawPump marketplace (requires verified X + wallet + nonzero price).
+2. Deploy Herpes Agent as an Eternal Agent that earns from trading + sells roasts as a service.
+3. Use their launchpad for a controlled token launch later.
+
+CEO decision: These are noted but secondary. Primary path remains the free-first roast funnel + micro-scout validation. Marketplace listing or Eternal Agent deployment only after the verified @HerpesAgent post is live and we have at least 1-2 inbound roast requests.
+
+Tokenization remains delayed per the existing conditions (traction first). No reckless launch.

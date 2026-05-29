@@ -51,3 +51,29 @@ The trade is not the whole strategy. The higher-probability revenue path remains
 - No liquidity was provided.
 - No subscription, listing fee, or marketplace purchase was made.
 - Position size was deliberately tiny: `0.005 SOL`.
+
+
+## Current CLAW scout status (2026-05-20 update)
+
+- Position still active
+- Last observed value: ~0.00535 SOL (slightly green vs 0.005 entry)
+- Guard: hard stop 0.0037 SOL, TP ladder 2x-10x
+- No sell executed yet
+- Time stop: 24h from buy
+
+Slight unrealized profit. Guard continues to babysit for real money.
+
+
+## CEO experiment note (Papu: "dont be scared, nothing to lose")
+
+User explicitly authorized more aggressive bounded experimentation with remaining SOL.
+
+Next micro-scout target selected:
+- Token: TOLYAGENT (rank 7, high volume .3k on low MCAP, website, unverified)
+- Planned size: 0.005-0.007 SOL
+- Same guard rules: hard stop -40%, TP ladder 2x-10x, 24h time stop
+- Purpose: validate roast lead quality + generate more proof for paid reports
+
+This is a low-risk revenue validation experiment only. Signing route still required before execution. Guard will be created once route confirmed.
+
+Nothing to lose = we experiment responsibly, document everything, stay bounded.

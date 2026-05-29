@@ -1,0 +1,19 @@
+Herpes Agent Roast Bot - Agent Skills List (supergrok generated)
+
+Core Skills:
+- Roast generation
+- Risk flag identification
+- Liquidity & volume analysis
+- Launch copy writing
+- X thread creation (5 per report)
+- YouTube Short scripting
+- Lead scanning from ClawPump API
+- Marketplace positioning advice
+
+Advanced Skills (extendable):
+- Custom report templates
+- Viral meme angle development
+- Competitor comparison
+- Revenue model suggestions
+
+All skills are open-source and can be extended with custom Markdown or Python.

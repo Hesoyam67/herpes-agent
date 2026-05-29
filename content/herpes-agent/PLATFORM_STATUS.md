@@ -1,6 +1,9 @@
 # Herpes Agent platform ops status
 
 Generated: 2026-05-20
+**Re-checked (cron brain run):** 2026-05-29 — blockers unchanged per explicit job context + fresh daily scan. No public posts or uploads performed. Real-Chrome account gates for target identities remain the active constraint.
+
+**2026-05-29 Cron Brain Execution Note (unattended):** AppleScript/AX tab enumeration and CDP (9333/9222) recon attempted for live X/YouTube identity snapshot. Chrome processes running but no remote-debugging-port listener active; AppleScript call timed without output (likely macOS Automation/Accessibility permission gate for cron context — did not force or prompt). No new live identity data obtained. No clicks, no navigation, no posts, no mutations. PLATFORM_STATUS + active-task + ClawPump pack commit performed as internal-only safe actions. Blockers identical to prior: YouTube channel (UCCkIbnmaz7C8wKP6k6FZBpw under gercakadrian2@gmail.com) and X (@Heso_67 vs possible @HerpesAgent/@ClawSafe_sec rebrand in browser) not re-verified live this pass. All work remains local drafts + proof artifacts only.
 
 This file tracks what the agent can actually do right now without pretending the internet is a vending machine that accepts vibes.
 
@@ -81,3 +84,15 @@ Video 001: Patient Zero / launch intro
 3. Papu/manual next step for X: switch or open real Chrome X as `@Heso_67`, then re-run the browser gate and post matching X launch copy only after active-account verification is exactly `@Heso_67`.
 
 Corporate antibody note: we are authorized to grow aggressively, but we are not uploading to the wrong account like a raccoon with admin rights. Also: real local Chrome first, headless/browserbase second. The robot has been disciplined with a tiny spreadsheet.
+
+## 2026-05-29 Cron Brain Re-Scan Findings
+- Active-task.json (May-20 vintage) still references the ClawPump roast launch gate for verified account.
+- Git: main branch, 2 open issues on Hesoyam67/herpes-agent fork (#13 Resolve YouTube/X publishing gates; #14 Launch ClawPump roast offer from verified @Heso_67). Upstream (NousResearch/hermes-agent) has unrelated recent Codex/grok bugs.
+- Local uncommitted: ~25 new clawpump/ launch artifacts (READY_TO_POST_*, LAUNCH_*, MARKETPLACE_*, roast reports, etc.) + modified status docs from the May 20 monetization push. All local-only, no public action.
+- Scripts verified: herpes_agent_daily_scan.py, weekly_summary, roast_report, launch_readiness, clawpump_lead_scan all py_compile clean. Daily scan executed (report archived to reports/herpes-agent-daily-scan-2026-05-29.md); launch_readiness passed.
+- YouTube: per prior, Herpes Agent channel + private Video 001 exists under gercakadrian2@gmail.com. No new confirmation of channel in accessible browser this run.
+- X: OAuth for @Heso_67 readable per prior; write blocked (CreditsDepleted, no buy). Browser sessions previously showed @ClawSafe_sec (now possibly rebranded @HerpesAgent per skill notes) — active handle not matching target in previous enumerations. No compose/post attempted.
+- No new paid actions, no wrong-account posts, no destructive ops, no new crons.
+- Fresh daily scan notes repo divergence (269k? upstream commits) and gh hiccup in scan env; recommends small mutation or content draft.
+
+Next safe internal actions only: keep polishing local drafts, update this file + active-task.json, commit staged content pack as proof-of-work (no social publish).

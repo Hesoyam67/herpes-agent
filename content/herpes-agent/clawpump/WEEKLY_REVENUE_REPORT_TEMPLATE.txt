@@ -1,0 +1,26 @@
+Weekly Revenue Report Template (supergrok generated)
+
+Week of: [DATE]
+
+Reports Delivered:
+- Free: X
+- Paid: X
+- Total SOL: X
+
+Top Roasts:
+- [Project 1]
+- [Project 2]
+
+Marketplace Status:
+- Listing live: Yes/No
+- Bids received: X
+
+Micro-scouts:
+- Active positions: X
+- Unrealized P/L: X SOL
+
+Next Week Focus:
+- [Action 1]
+- [Action 2]
+
+All tracked with existing tools. No extra costs.

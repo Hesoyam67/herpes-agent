@@ -1,0 +1,13 @@
+Herpes Agent Roast Bot vs Others (supergrok generated)
+
+Feature                  | Herpes Agent | Generic Roast | Paid Consultant
+-------------------------|--------------|---------------|----------------
+Price                    | 0.03-0.07 SOL| Free/Paid     | $200+
+Speed                    | 24h          | Days          | 1-2 weeks
+X Threads Included       | Yes          | Sometimes     | Extra
+YouTube Script           | Yes          | No            | Extra
+Meme Tone                | Yes          | No            | No
+Open Source              | Yes          | No            | No
+ClawPump Marketplace     | In progress  | No            | No
+
+This is the value we bring.
